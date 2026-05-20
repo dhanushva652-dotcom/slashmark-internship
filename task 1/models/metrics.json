@@ -1,0 +1,28 @@
+{
+  "best_model": "svm",
+  "labels": {
+    "0": "Negative",
+    "1": "Positive",
+    "2": "Neutral"
+  },
+  "results": [
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.6,
+      "f1_weighted": 0.45
+    },
+    {
+      "model": "naive_bayes",
+      "accuracy": 0.6,
+      "f1_weighted": 0.45
+    },
+    {
+      "model": "svm",
+      "accuracy": 0.8,
+      "f1_weighted": 0.7142857142857142
+    }
+  ],
+  "accuracy": 0.8,
+  "f1_weighted": 0.7142857142857142,
+  "classification_report": "              precision    recall  f1-score   support\n\n    Negative       0.00      0.00      0.00         1\n    Positive       0.75      1.00      0.86         3\n     Neutral       1.00      1.00      1.00         1\n\n    accuracy                           0.80         5\n   macro avg       0.58      0.67      0.62         5\nweighted avg       0.65      0.80      0.71         5\n"
+}
