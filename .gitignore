@@ -1,0 +1,9 @@
+task2/venv/
+task2/dataset/
+task2/data/
+task2/models/
+task2/outputs/
+
+__pycache__/
+*.pyc
+git status
