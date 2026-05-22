@@ -4,5 +4,8 @@ task2/data/
 task2/models/
 task2/outputs/
 
+task3/venv/
+task3/outputs/
+
 __pycache__/
 *.pyc
