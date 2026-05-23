@@ -1,0 +1,6 @@
+{
+  "threshold": 0.5981510333315434,
+  "training_f2": 0.8166409861325115,
+  "training_expected_cost": 1953.0,
+  "best_model": "random_forest_smote"
+}
