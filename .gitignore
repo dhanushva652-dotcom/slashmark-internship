@@ -6,6 +6,9 @@ task2/outputs/
 
 task3/venv/
 task3/outputs/
-
+task 4/data/
+task 4/artifacts/
+*.csv
+*.joblib
 __pycache__/
 *.pyc
