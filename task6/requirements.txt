@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+torch
+tqdm
+matplotlib
+Pillow
+# Optional for AirSim integration:
+# airsim
